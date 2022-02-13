@@ -10,12 +10,29 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.description {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+}
+
+.comingsoon {
+    align-content: center;
+}
+
 #link {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
 }
 
-#preview {
+.preview {
     align-items: center;
 }
